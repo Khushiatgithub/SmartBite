@@ -1,10 +1,10 @@
-#🍽️ SmartBite – AI-Powered Restaurant Website
+# 🍽️ SmartBite – AI-Powered Restaurant Website
 
 A modern restaurant e-commerce platform with an integrated AI mood-based dish recommendation system.
 SmartBite allows users to browse menus, explore dishes, and get personalized food suggestions based on their current mood, using a machine-learning model built with Python and Flask.
 
-##🚀 Features
-###🍔 Restaurant Website (Frontend)
+## 🚀 Features
+### 🍔 Restaurant Website (Frontend)
 
 Beautiful, responsive UI
 
@@ -14,7 +14,7 @@ Category-wise dishes
 
 Clean, modern layout
 
-###🤖 AI Mood-Based Dish Suggestion
+### 🤖 AI Mood-Based Dish Suggestion
 
 User enters a mood (e.g., sad, happy, tired, stressed)
 
@@ -26,7 +26,7 @@ Real-time response using Flask backend
 
 Custom mapping of mood → dishes
 
-###🧠 Machine Learning Model
+### 🧠 Machine Learning Model
 
 Trained using scikit-learn
 
@@ -36,7 +36,7 @@ Mood classes: happy, sad, angry, tired, bored, stressed, excited
 
 Easily extendable for more moods or dishes
 
-###🌐 Full-Stack Integration
+### 🌐 Full-Stack Integration
 
 Flask backend serves predictions
 
@@ -44,8 +44,8 @@ Frontend interacts through /predict route
 
 Dynamic UI updates recommended dishes instantly
 
-##🛠️ Tech Stack
-###Frontend
+## 🛠️ Tech Stack
+### Frontend
 
 HTML
 
@@ -53,13 +53,13 @@ CSS
 
 JavaScript
 
-###Backend
+### Backend
 
 Python
 
 Flask Web Framework
 
-###Machine Learning
+### Machine Learning
 
 scikit-learn
 
@@ -67,7 +67,7 @@ joblib
 
 pandas
 
-###Tools
+### Tools
 
 VS Code
 
@@ -75,17 +75,17 @@ GitHub
 
 Browser DevTools
 
-##📂 Project Structure
+## 📂 Project Structure
 
-##🔧 Setup Instructions
-###1. Clone the repository
+## 🔧 Setup Instructions
+### 1. Clone the repository
 git clone https://github.com/Khushiatgithub/SmartBite.git
 cd SmartBite
 
-###2. Install dependencies
+### 2. Install dependencies
 pip install -r requirements.txt
 
-###3. Run the Flask Mood Model Server
+### 3. Run the Flask Mood Model Server
 cd model
 python app.py
 
@@ -94,11 +94,11 @@ The backend will run on:
 
 http://127.0.0.1:5000/
 
-###4. Use the Mood Predictor
+### 4. Use the Mood Predictor
 
 Open your browser → enter a mood → get instant dish suggestions 🍽️🤩
 
-##🎉 Highlights
+## 🎉 Highlights
 
 Designed SmartBite — an aesthetic restaurant e-commerce website
 
