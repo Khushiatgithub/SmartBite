@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu Suggester 🍽️</title>
+    <link rel="stylesheet" href="/website/style1.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+
+            <h1 class="title">Menu Suggester 🍽️</h1>
+
+            <div class="intro">
+                👋 Hey! Tell me how you're feeling, and I'll suggest the perfect dish for you!
+            </div>
+
+            <form method="POST" action="/predict" class="input-area">
+                <input type="text" name="mood_input" placeholder="Type your mood..." required>
+                <button type="submit">➤</button>
+            </form>
+
+            {% if mood %}
+            <div class="result-box">
+                <h2>Your Mood: {{ mood }}</h2>
+
+                <h3>Recommended Dishes:</h3>
+                <ul>
+                    {% for dish in dishes %}
+                    <li>{{ dish }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+        </div>
+    </div>
+</body>
+</html>
