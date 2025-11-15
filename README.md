@@ -75,8 +75,6 @@ GitHub
 
 Browser DevTools
 
-## 📂 Project Structure
-
 ## 🔧 Setup Instructions
 ### 1. Clone the repository
 git clone https://github.com/Khushiatgithub/SmartBite.git
