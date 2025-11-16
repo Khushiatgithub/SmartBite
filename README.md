@@ -44,6 +44,11 @@ Frontend interacts through /predict route
 
 Dynamic UI updates recommended dishes instantly
 
+Screenshots of project:
+
+![Picture1](https://i.postimg.cc/Kv60983w/Screenshot-2025-11-15-231301.png)
+
+
 ## 🛠️ Tech Stack
 ### Frontend
 
