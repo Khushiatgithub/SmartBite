@@ -48,6 +48,17 @@ Screenshots of project:
 
 ![Picture1](https://i.postimg.cc/Kv60983w/Screenshot-2025-11-15-231301.png)
 
+![Picture2](https://i.postimg.cc/rpr0fqWH/Screenshot-2025-11-15-231316.png)
+
+![Picture3](https://i.postimg.cc/C5PxF2kG/Screenshot-2025-11-15-231327.png)
+
+![Picture4](https://i.postimg.cc/2jckLPLV/Screenshot-2025-11-15-231340.png)
+
+![Picture5](https://i.postimg.cc/hjCBxdjH/Screenshot-2025-11-15-231358.png)
+
+![Picture6](https://i.postimg.cc/HnwC65JV/Screenshot-2025-11-16-173953.png)
+
+![Picture7](https://i.postimg.cc/43kQg9n4/Screenshot-2025-11-16-174012.png)
 
 ## 🛠️ Tech Stack
 ### Frontend
