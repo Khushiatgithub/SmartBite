@@ -9,7 +9,7 @@
 
 
 .main {
-    background-image: url("/model/static/images1/hero-bg.jpg");
+    background-image: url("images/hero-bg.jpg");
 
     background-position: center center;
     background-size: max(1200px, 100vw);
